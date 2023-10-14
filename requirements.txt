@@ -1,0 +1,7 @@
+scikit-learn
+numpy
+scipy
+fastapi
+uvicorn[standard]
+mlflow-skinny
+
