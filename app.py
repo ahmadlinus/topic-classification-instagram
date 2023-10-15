@@ -18,7 +18,7 @@ class TopicClassifierInput(BaseModel):
 
 @app.get("/")
 async def entry_point():
-    return Response(content="Hello World!")
+    return Response(content="Hello World! Welcome to Topic Classification!")
 
 
 @app.post("/topics")
